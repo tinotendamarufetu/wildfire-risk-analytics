@@ -20,6 +20,9 @@ This platform bridges spatial data engineering and actuarial risk modeling by:
 3. **Explainable AI (TreeSHAP):** Decomposing global and local feature attributions to provide transparent underwriting rationale.
 4. **Actuarial Simulation & Hardening Discounts:** Modeling "what-if" property mitigation scenarios (defensible space clearing, Class A fire-resistant roofing) to calculate dynamic risk index reductions and annual policy premium savings.
 
+<img width="1849" height="854" alt="image" src="https://github.com/user-attachments/assets/b54bab06-30ef-4e35-956f-45f9afc3abcf" />
+
+
 ---
 
 ## 🏗️ Architecture & Pipeline Flow
